@@ -1,4 +1,4 @@
-module github.com/emiago/sipgo
+module github.com/MirzaBegunic/sipgo
 
 go 1.22
 
