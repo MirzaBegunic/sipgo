@@ -23,4 +23,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/emiago/sipgo v1.0.0-beta-1 => github.com/MirzaBegunic/sipgo v1.0.0-beta-1-1
+replace github.com/emiago/sipgo v1.0.0-beta-1 => github.com/MirzaBegunic/sipgo v1.0.0-beta-1-2
